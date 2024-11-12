@@ -9,7 +9,7 @@ class scrape():
 
     def __init__(self):
         self.output_frame = None
-        self.loading = False
+        self.loading = False 
 
     # Create base Indeed URL for all further scraping
     def create_url(parameters):
