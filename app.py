@@ -47,7 +47,7 @@ You can then download the full dataframe as an excel sheet for convenience.
 **NOTE: Parsing through all job descriptions can take sometime. (up to 30 seconds). **
 
 '''
-
+ 
 # Hacky way of allowing downloading
 global_df = None
 
